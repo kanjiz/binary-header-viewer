@@ -1,0 +1,19 @@
+# .gitignore
+
+# macOS
+.DS_Store
+
+# Windows
+Thumbs.db
+Desktop.ini
+$RECYCLE.BIN/
+
+# Linux
+*~
+
+# IDEs and editors
+.vscode/
+.idea/
+*.suo
+*.sln
+*.sw?
